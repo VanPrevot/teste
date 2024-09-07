@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App10.MainPage"
+             BackgroundImageSource="fundo.png"
+             NavigationPage.HasNavigationBar="False">
+    <StackLayout>
+    <Frame BackgroundColor="Gray">
+            <StackLayout Orientation="Horizontal" Padding="10" HorizontalOptions="Center">
+                <Label Text="Item 1   " HorizontalOptions="Center" VerticalOptions="Center" TextColor="Black" FontFamily="ArialBlack" FontSize="20">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding Item1Command}" />
+                    </Label.GestureRecognizers>
+                </Label>
+
+                <Label Grid.Column="1" Text="   Item 2   " HorizontalOptions="Center" VerticalOptions="Center" TextColor="Black" FontFamily="ArialBlack" FontSize="20">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding Item2Command}" />
+                    </Label.GestureRecognizers>
+                </Label>
+
+                <Label Grid.Column="2" Text="   Item 3" HorizontalOptions="Center" VerticalOptions="Center" TextColor="Black" FontFamily="ArialBlack" FontSize="20">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding Item3Command}" />
+                    </Label.GestureRecognizers>
+                </Label>
+
+                <Label Grid.Column="3" Text="   Item 4" HorizontalOptions="Center" VerticalOptions="Center" TextColor="Black" FontFamily="ArialBlack" FontSize="20">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding Item4Command}" />
+                    </Label.GestureRecognizers>
+                </Label>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>

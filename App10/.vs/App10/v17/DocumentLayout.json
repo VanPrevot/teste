@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|c:\\users\\vanessa prevot\\source\\repos\\app10\\app10\\app10\\page4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|solutionrelative:app10\\app10\\page4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|c:\\users\\vanessa prevot\\source\\repos\\app10\\app10\\app10\\page4.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|solutionrelative:app10\\app10\\page4.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|c:\\users\\vanessa prevot\\source\\repos\\app10\\app10\\app10\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|solutionrelative:app10\\app10\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|c:\\users\\vanessa prevot\\source\\repos\\app10\\app10\\app10\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|solutionrelative:app10\\app10\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|c:\\users\\vanessa prevot\\source\\repos\\app10\\app10\\app10\\app10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|solutionrelative:app10\\app10\\app10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|c:\\users\\vanessa prevot\\source\\repos\\app10\\app10\\app10\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|solutionrelative:app10\\app10\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|c:\\users\\vanessa prevot\\source\\repos\\app10\\app10\\app10\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|solutionrelative:app10\\app10\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|c:\\users\\vanessa prevot\\source\\repos\\app10\\app10\\app10\\page3.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|solutionrelative:app10\\app10\\page3.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|c:\\users\\vanessa prevot\\source\\repos\\app10\\app10\\app10\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|solutionrelative:app10\\app10\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|c:\\users\\vanessa prevot\\source\\repos\\app10\\app10\\app10\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{04D81ED9-A108-4CA9-83E9-D69B52B291FF}|App10\\App10\\App10.csproj|solutionrelative:app10\\app10\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page4.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\Page4.xaml.cs",
+              "RelativeDocumentMoniker": "App10\\App10\\Page4.xaml.cs",
+              "ToolTip": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\Page4.xaml.cs",
+              "RelativeToolTip": "App10\\App10\\Page4.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:29:22.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page4.xaml",
+              "DocumentMoniker": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\Page4.xaml",
+              "RelativeDocumentMoniker": "App10\\App10\\Page4.xaml",
+              "ToolTip": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\Page4.xaml",
+              "RelativeToolTip": "App10\\App10\\Page4.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-05T22:28:50.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App10.csproj",
+              "DocumentMoniker": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\App10.csproj",
+              "RelativeDocumentMoniker": "App10\\App10\\App10.csproj",
+              "ToolTip": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\App10.csproj",
+              "RelativeToolTip": "App10\\App10\\App10.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T22:28:30.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App10\\App10\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\App.xaml.cs",
+              "RelativeToolTip": "App10\\App10\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:17:17.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "App10\\App10\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\Page1.xaml.cs",
+              "RelativeToolTip": "App10\\App10\\Page1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:10:34.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "App10\\App10\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\MainPage.xaml.cs",
+              "RelativeToolTip": "App10\\App10\\MainPage.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:10:26.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\MainPage.xaml",
+              "RelativeDocumentMoniker": "App10\\App10\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\MainPage.xaml",
+              "RelativeToolTip": "App10\\App10\\MainPage.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T21:04:14.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Page3.xaml",
+              "DocumentMoniker": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\Page3.xaml",
+              "RelativeDocumentMoniker": "App10\\App10\\Page3.xaml",
+              "ToolTip": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\Page3.xaml",
+              "RelativeToolTip": "App10\\App10\\Page3.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T21:04:07.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\Page2.xaml",
+              "RelativeDocumentMoniker": "App10\\App10\\Page2.xaml",
+              "ToolTip": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\Page2.xaml",
+              "RelativeToolTip": "App10\\App10\\Page2.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T21:03:57.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\Page1.xaml",
+              "RelativeDocumentMoniker": "App10\\App10\\Page1.xaml",
+              "ToolTip": "C:\\Users\\VANESSA PREVOT\\source\\repos\\App10\\App10\\App10\\Page1.xaml",
+              "RelativeToolTip": "App10\\App10\\Page1.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T21:03:48.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

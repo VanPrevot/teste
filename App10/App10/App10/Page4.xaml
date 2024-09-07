@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App10.Page4">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Label Text="Programa para envio de e-mail!"
+               HorizontalOptions="Center"
+               FontSize="Large"/>
+            <Entry x:Name="etRemetente" Keyboard="Email"  Placeholder="Qual o seu e-mail?"/>
+            <Entry x:Name="etDestino" Keyboard="Email" Placeholder="Para quem você deseja enviar?"/>
+            <Entry x:Name="etAssunto" Placeholder="Assunto:"/>
+
+            <Editor x:Name="etTexto" Placeholder="Digite sua mensagem aqui:" AutoSize="TextChanges"/>
+
+            <Button x:Name="btEnviar" Text="Enviar" Clicked="btEnviar_Clicked"/>
+            <Button x:Name="btLimpar" Text="Limpar" Clicked="btLimpar_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
